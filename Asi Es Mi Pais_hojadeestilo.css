@@ -1,0 +1,149 @@
+body {
+    background: #0754b9;
+    color: #fff;
+}
+.encabezado {
+    background: #050a46;
+    overflow: hidden;
+    box-shadow: 0 0 20px #070707;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    width: 1300px;
+    height: 90px;
+}
+.encabezado nav {
+}
+.encabezado nav ul {
+    margin: 0;
+    padding: 20px;
+    list-style: none;
+}
+.encabezado nav ul li {
+    display: inline-block;
+    margin-right: -4px;
+}
+.encabezado nav ul li a {
+    display: block;
+    color: #fff;
+    padding: 20px;
+    text-decoration: none;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+.encabezado nav ul li a:hover {
+    background: #2278e9;
+
+}
+.imagen-presentacion {
+    margin-top: 120px;
+}
+.contenedor {
+    width: 1000px;
+    height: 950px;
+}
+#servicios {
+    padding-left: 10px;
+}
+#viaja {
+    padding-left: 10px;
+}
+.main {
+    display: block;
+    background-color: #2278e9;
+    font-family: Helvetica;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+#rivas {
+    display: block;
+    background-color: #a79e79;
+    font-family: Helvetica;
+}
+#matagalpa {
+    display: block;
+    background-color: #32634a;
+    font-family: Helvetica;
+}
+#leon {
+    display: block;
+    background-color: #8a8764;
+    font-family: Helvetica;
+}
+#costa-caribe {
+    display: block;
+    background-color: #8f6a4d;
+    font-family: Helvetica;
+}
+#rivas h3{
+    font-family: Helvetica;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#rivas p{
+    font-family: Helvetica;
+    font-weight: lighter;
+    padding-left: 10px;
+}
+#rivas h5{
+    font-family: Helvetica;
+    font-weight: lighter;
+    padding-top: -5px;
+    margin-top: 5px;
+}
+#matagalpa h3{
+    font-family: Helvetica;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#matagalpa p{
+    font-family: Helvetica;
+    font-weight: lighter;
+    padding-left: 10px;
+}
+#matagalpa h5{
+    font-family: Helvetica;
+    font-weight: lighter;
+    padding-top: -5px;
+    margin-top: 5px;
+}
+#leon h3{
+    font-family: Helvetica;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#leon p{
+    font-family: Helvetica;
+    font-weight: lighter;
+    padding-left: 10px;
+}
+#leon h5{
+    font-family: Helvetica;
+    font-weight: lighter;
+    padding-top: -5px;
+    margin-top: 5px;
+}
+#costa-caribe h3{
+    font-family: Helvetica;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#costa-caribe p{
+    font-family: Helvetica;
+    font-weight: lighter;
+    padding-left: 10px;
+}
+#costa-caribe h5{
+    font-family: Helvetica;
+    font-weight: lighter;
+    padding-top: -5px;
+    margin-top: 5px;
+}
+#nicatour {
+    font-family: Helvetica;
+}
